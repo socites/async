@@ -10,10 +10,9 @@
   "dependencies": {
     "co": "~4.0.0"
   },
-  "directories": {
-    "lib": "./lib"
-  },
   "files": [
-    "README.md"
+    "README.md",
+    "lib/",
+    "test/"
   ]
 }
