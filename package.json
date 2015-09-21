@@ -1,0 +1,19 @@
+{
+  "name": "async",
+  "version": "0.0.1",
+  "main": "./lib",
+  "description": "Nodejs-based async module works as an extension of the library tj/co",
+  "author": "socites",
+  "engines": {
+    "node": ">= 0.12.0"
+  },
+  "dependencies": {
+    "co": "~4.0.0"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "files": [
+    "README.md"
+  ]
+}
